@@ -1,0 +1,28 @@
+# Core web framework
+flask>=3.0.0
+werkzeug>=3.0.0
+
+# IBM watsonx AI SDK (includes Granite model access)
+ibm-watsonx-ai>=1.1.2
+
+# LangChain ecosystem for RAG pipeline
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-text-splitters>=0.2.0
+
+# Document loaders
+pypdf>=4.0.0          # PDF parsing – Tier 1 (text-layer, fast)
+pdfplumber>=0.11.0    # PDF parsing – Tier 2 (better tables + layout)
+pymupdf>=1.24.0       # PDF parsing – Tier 3 (deepest text extraction)
+docx2txt>=0.8         # DOCX parsing
+unstructured>=0.14.0  # XLSX and other formats (optional but recommended)
+openpyxl>=3.1.0       # XLSX support
+
+# Vector store
+faiss-cpu>=1.8.0
+
+# Embeddings (local, no API needed)
+sentence-transformers>=3.0.0
+
+# Utility
+python-dotenv>=1.0.0  # Load .env file for local development

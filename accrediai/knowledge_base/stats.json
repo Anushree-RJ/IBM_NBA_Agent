@@ -1,0 +1,42 @@
+{
+  "total_queries": 7,
+  "sar_queries": 2,
+  "copo_queries": 2,
+  "recent_queries": [
+    {
+      "question": "What are the important requirements for preparing the NBA SAR?",
+      "type": "chat",
+      "time": "2026-09-11T12:50:43.123221+00:00"
+    },
+    {
+      "question": "CO-PO mapping (1 COs × 1 POs)",
+      "type": "copo",
+      "time": "2026-09-11T11:39:36.792685+00:00"
+    },
+    {
+      "question": "SAR",
+      "type": "sar",
+      "time": "2026-09-11T11:39:36.791817+00:00"
+    },
+    {
+      "question": "test",
+      "type": "chat",
+      "time": "2026-09-11T11:39:36.790777+00:00"
+    },
+    {
+      "question": "CO-PO mapping (1 COs × 1 POs)",
+      "type": "copo",
+      "time": "2026-09-11T11:38:39.283045+00:00"
+    },
+    {
+      "question": "NBA eligibility",
+      "type": "sar",
+      "time": "2026-09-11T11:38:39.281102+00:00"
+    },
+    {
+      "question": "What are NBA criteria?",
+      "type": "chat",
+      "time": "2026-09-11T11:38:14.989413+00:00"
+    }
+  ]
+}
